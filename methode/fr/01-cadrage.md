@@ -100,7 +100,7 @@ Le cadrage définit et budgète les mesures nécessaires pour que le MiniPublic 
 - Cartographie des personnes concernées par le projet
 - Calendrier prévisionnel articulé au calendrier du MEP
 - Règlement du MEP amendé pour intégrer les scènes participatives (incluant le statut formel des ambassadeurs)
-- Grille de stratification pour le tirage au sort (voir `outils/fr/guide-tirage-au-sort.md`)
+- Grille de stratification pour le tirage au sort (voir [`outils/guide-tirage-au-sort.md`](./outils/guide-tirage-au-sort.md))
 - Budget des mesures d'inclusion
 - Modèle de clause de confidentialité
 
