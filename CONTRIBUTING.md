@@ -21,6 +21,10 @@ Merci de l'intérêt que vous portez à cette méthode. Les contributions sont l
 3. **Soumettez une pull request** en décrivant clairement ce que vous avez modifié et pourquoi.
 4. Les contributions sont examinées par l'équipe d'En Commun avant intégration.
 
+### Règle interne — mise à jour à chaque clôture de projet
+
+Pour l'équipe d'En Commun : aucun projet MiniPublic ne se clôt sans qu'une pull request sur ce dépôt soit ouverte à partir des enseignements de l'atelier de retour d'expérience (voir [étape 7 — Transmission](./methode/fr/07-transmission.md)), même minime. C'est ce mécanisme — et non une révision périodique séparée — qui maintient la documentation alignée sur la pratique réelle. Le Google Doc de synthèse est régénéré à partir de ce dépôt à chaque version majeure (voir [CHANGELOG.md](./CHANGELOG.md)) ; il n'est jamais édité indépendamment.
+
 ### Licence et attribution
 
 En contribuant à ce dépôt, vous acceptez que vos contributions soient publiées sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Vos contributions seront créditées dans l'historique du dépôt.

@@ -1,10 +1,24 @@
-# Étape 5 — Contribution à la décision
+# Étape 6 — Contribution à la décision
 
 ## Objectif
 
 Décrire le déroulé opérationnel des séances où les ambassadeurs portent les recommandations du MiniPublic devant le Collège d'expert·e·s, et documenter les arbitrages produits. La définition des boucles et leur articulation au MEP sont établies lors du cadrage ([`01-cadrage.md`](./01-cadrage.md)) — cette étape en décrit la mise en œuvre concrète.
 
 > **Rappel** : L'**assistant·e à maîtrise d'usage (AMU)** accompagne les ambassadeurs à chaque séance du Collège. Son rôle est de préparer les ambassadeurs, de veiller à la fidélité de la transmission, et de documenter les arbitrages pour retransmission au MiniPublic. Pour une présentation complète du rôle de l'AMU, voir [`00-introduction.md`](./00-introduction.md).
+
+## Séquence détaillée à partir de la boucle 2
+
+À partir de la deuxième boucle, la contribution à la décision suit une séquence à sept temps, qui se répète pour chaque boucle supplémentaire définie au cadrage :
+
+1. **Visio de préparation des ambassadeurs** — en amont de la séance de l'organe décisionnel (maîtrise d'ouvrage, Collège d'expert·e·s), pour structurer la défense des recommandations.
+2. **Séance de l'organe décisionnel** — les ambassadeurs défendent les recommandations et prennent connaissance des arbitrages.
+3. **Atelier MiniPublic** — le groupe prend connaissance des arbitrages et de l'évolution de chaque projet en conséquence.
+4. **Rédaction d'une nouvelle liste de recommandations** — visant à faire évoluer chaque projet individuellement. Il ne s'agit pas d'une mise en concurrence des projets entre eux au sein du MiniPublic : chaque projet reçoit ses propres recommandations.
+5. **Validation par les ambassadeurs** de la mise au propre réalisée par l'AMU.
+6. **Transmission** de la liste validée à l'organe décisionnel.
+7. **Nouvelle visio de préparation** des ambassadeurs avant la séance décisionnelle suivante → retour au point 2.
+
+Dans la communication publique et les supports destinés au grand public, cette séquence est désignée simplement par « atelier MiniPublic », sans détailler chacun de ses temps.
 
 ## Déroulé des séances d'ambassadeurs
 

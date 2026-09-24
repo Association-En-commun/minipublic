@@ -1,4 +1,4 @@
-# Étape 4 — Recommandations
+# Étape 5 — Recommandations
 
 ## Objectif
 

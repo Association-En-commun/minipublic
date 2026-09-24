@@ -30,7 +30,7 @@ L'AMU agit en complémentarité avec le bureau d'assistance à maîtrise d'ouvra
 
 ## Structure de la documentation
 
-Cette documentation est organisée en sept étapes correspondant aux sept phases du processus, plus un ensemble d'outils pratiques.
+Cette documentation est organisée en sept étapes correspondant aux sept phases du processus, plus un ensemble d'outils pratiques. Les étapes 1 à 7 décrivent le déroulement dans le contexte d'un MEP (concours). En Commun intervient aussi en **groupement de réalisation**, aux côtés d'une équipe de conception unique plutôt qu'en concours entre plusieurs équipes : voir l'[étape 8](./08-groupement-realisation.md) pour ce que ce second contexte change à la méthode.
 
 ### Étapes du processus
 
@@ -43,6 +43,7 @@ Cette documentation est organisée en sept étapes correspondant aux sept phases
 | 5. Recommandations | [`05-recommandations.md`](./05-recommandations.md) |
 | 6. Contribution à la décision | [`06-contribution-decision.md`](./06-contribution-decision.md) |
 | 7. Transmission | [`07-transmission.md`](./07-transmission.md) |
+| 8. Variante — Groupement de réalisation | [`08-groupement-realisation.md`](./08-groupement-realisation.md) |
 
 ### Outils pratiques
 
