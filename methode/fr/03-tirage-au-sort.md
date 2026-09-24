@@ -119,7 +119,7 @@ Dans les deux cas : documenter la date, le lieu, les témoins présents, le rés
 - Étapes suivantes du processus
 
 **Destinataires et diffusion :**
-- Publication sur la page web du projet (voir `06-transmission.md`)
+- Publication sur la page web du projet (voir `07-transmission.md`)
 - Transmission à la maîtrise d'ouvrage et à l'AMO
 - Mise à disposition pour les médias sur demande
 

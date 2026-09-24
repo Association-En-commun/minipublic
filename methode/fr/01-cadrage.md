@@ -52,8 +52,12 @@ Les **ambassadeurs** sont des membres du MiniPublic désignés par tirage au sor
 
 **La question centrale du cadrage :** quel est le statut des ambassadeurs au sein du Collège ?
 
+**Position d'En Commun.** L'expérience d'En Commun (Nyon, La Coudre, Grandson) montre que le droit de vote des ambassadeurs au sein du Collège produit une délibération plus robuste et une appropriation plus forte des arbitrages par la maîtrise d'ouvrage : le fait de trancher, et pas seulement de conseiller, engage différemment. En Commun défend donc le droit de vote comme la modalité la plus juste et la plus efficace, et la propose par défaut à chaque mandant.
+
+Cette position n'est cependant pas une condition d'entrée en matière. Lorsqu'une majorité politique ou institutionnelle ne s'est pas encore constituée en faveur du vote, une modalité moins ambitieuse permet au dispositif de fonctionner et constitue une étape dans le développement d'une culture locale de la participation — qu'En Commun continue d'accompagner vers le vote à part entière au fil des mandats suivants.
+
 - **Voix consultative** : les ambassadeurs présentent et argumentent, mais ne votent pas.
-- **Droit de vote** : les ambassadeurs participent à la délibération et au vote à égalité avec les autres membres du Collège.
+- **Droit de vote** *(modalité recommandée par En Commun)* : les ambassadeurs participent à la délibération et au vote à égalité avec les autres membres du Collège.
 
 Ce choix doit être acté par la maîtrise d'ouvrage et intégré au règlement du MEP. Dans tous les cas, le Collège a l'obligation d'argumenter explicitement les recommandations non retenues.
 
@@ -96,7 +100,7 @@ Le cadrage définit et budgète les mesures nécessaires pour que le MiniPublic 
 - Cartographie des personnes concernées par le projet
 - Calendrier prévisionnel articulé au calendrier du MEP
 - Règlement du MEP amendé pour intégrer les scènes participatives (incluant le statut formel des ambassadeurs)
-- Grille de stratification pour le tirage au sort (voir `outils/fr/guide-tirage-au-sort.md`)
+- Grille de stratification pour le tirage au sort (voir [`outils/guide-tirage-au-sort.md`](./outils/guide-tirage-au-sort.md))
 - Budget des mesures d'inclusion
 - Modèle de clause de confidentialité
 

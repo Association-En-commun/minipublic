@@ -3,7 +3,7 @@
 > Méthode délibérative pour les projets urbains, architecturaux et paysagers  
 > Deliberative method for urban, architectural and landscape projects
 
-**Version**: 0.3 (en développement / in development)  
+**Version**: 1.0.0 — voir [`CHANGELOG.md`](./CHANGELOG.md)  
 **Licence / License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Porté·e·s par / Maintained by**: [Association En Commun](https://www.encommun.ch) — Suisse romande
 
@@ -76,12 +76,14 @@ Commencer par lire [`methode/fr/00-introduction.md`](./methode/fr/00-introductio
 | 5. Recommandations | [`methode/fr/05-recommandations.md`](./methode/fr/05-recommandations.md) |
 | 6. Contribution à la décision | [`methode/fr/06-contribution-decision.md`](./methode/fr/06-contribution-decision.md) |
 | 7. Transmission | [`methode/fr/07-transmission.md`](./methode/fr/07-transmission.md) |
+| 8. Variante — Groupement de réalisation | [`methode/fr/08-groupement-realisation.md`](./methode/fr/08-groupement-realisation.md) |
 
 #### Outils pratiques
 
 | Outil | Fichier |
 |---|---|
 | Budget type (heures) | [`methode/fr/outils/budget-type.md`](./methode/fr/outils/budget-type.md) |
+| Simulateur de coûts (Google Sheet) | https://docs.google.com/spreadsheets/d/1lu15UVnjacxyPIOJuFzbnneQrKZ2s-YdQ3kLu8bCMA0/edit?usp=sharing — outil de travail interne partagé en lecture ; les valeurs par défaut sont génériques |
 | Convention de cadrage | [`methode/fr/outils/convention-cadrage-notice.md`](./methode/fr/outils/convention-cadrage-notice.md) |
 | Guide de tirage au sort | [`methode/fr/outils/guide-tirage-au-sort.md`](./methode/fr/outils/guide-tirage-au-sort.md) |
 | Guide d'animation des ateliers | [`methode/fr/outils/guide-animation-ateliers.md`](./methode/fr/outils/guide-animation-ateliers.md) |

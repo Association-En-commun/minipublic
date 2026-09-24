@@ -25,7 +25,7 @@ Processus :
 4. Contacter les personnes par courrier ou par téléphone
 5. Constituer une liste de suppléant·e·s pour pallier les désistements
 
-Voir `outils/fr/guide-tirage-au-sort.md` pour la procédure détaillée.
+Voir [`outils/guide-tirage-au-sort.md`](./outils/guide-tirage-au-sort.md) pour la procédure détaillée.
 
 ### Recrutement ciblé
 
